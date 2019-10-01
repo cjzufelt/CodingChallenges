@@ -1,0 +1,13 @@
+Mikayla June Bug is the cutest little thing in the whole wide world
+world: 1
+is: 1
+cutest: 1
+little: 1
+Bug: 1
+the: 2
+in: 1
+Mikayla: 1
+whole: 1
+June: 1
+wide: 1
+thing: 1
